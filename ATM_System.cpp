@@ -67,9 +67,6 @@ public:
 
 int main()
 {
-    Atm atm;
-    string id = "balance";
-    Customer cust(atm);
-    cust.find_User(id);
+   
    return 0;
 }
